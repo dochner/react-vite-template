@@ -1,6 +1,8 @@
 <p align='center'>
-<a href="https://reactvite.dochner.me/">Live Demo</a>
+<a href="https://reactivite.douglasochner.me/">Live Demo</a>
 </p>
+
+`Reactivite` template was created to help you get started with React and Vite. It is based on the [Vitesse template](https://github.com/antfu/vitesse)
 
 <br>
 
